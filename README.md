@@ -14,3 +14,4 @@ This is a sign-up form the checks:
 ### Dependencies
 
 - Fonts from [Font Space](https://www.fontspace.com/blackpearl-font-f28295)
+- Background image from [Nailum](https://www.artstation.com/nailumart1) on [ArtStation](https://www.artstation.com/artwork/eJd8mJ)
