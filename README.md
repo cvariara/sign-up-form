@@ -2,7 +2,7 @@
 
 Mock up Sign up Form created for [The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form#solutions)
 
-- Try Live Preview [Here]()
+- Try Live Preview [Here](https://cvariara.github.io/sign-up-form/)
 
 ### About
 
